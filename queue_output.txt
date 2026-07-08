@@ -1,0 +1,25 @@
+enqueue 10
+front is 10
+enqueue 20
+front is 10
+enqueue 30
+front is 10
+dequeue -> 10
+front is now 20
+dequeue -> 20
+front is now 30
+dequeue -> 30
+queue should be empty now
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
+
+
+
+
+
+
+
+
+
